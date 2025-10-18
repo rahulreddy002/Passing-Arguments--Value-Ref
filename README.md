@@ -33,3 +33,6 @@ Where ref is used in real time projects ?
 • RTL/Testbench – counters, memories. 
 • UVM Driver/Monitor – for transactions and packets 
 • UVM Scoreboard  - for comparing Dut and reference model outputs. 
+
+
+<img width="1195" height="556" alt="image" src="https://github.com/user-attachments/assets/d6fa6175-d868-4021-9f8c-5b79812f5d84" />
