@@ -34,5 +34,13 @@ Where ref is used in real time projects ?
 • UVM Driver/Monitor – for transactions and packets 
 • UVM Scoreboard  - for comparing Dut and reference model outputs. 
 
-
+Template 
 <img width="1195" height="556" alt="image" src="https://github.com/user-attachments/assets/d6fa6175-d868-4021-9f8c-5b79812f5d84" />
+
+Pass by value
+<img width="1127" height="704" alt="image" src="https://github.com/user-attachments/assets/e353bcfc-7b59-4e73-ae8d-c704edfad23c" />
+
+Pass by reference
+<img width="1196" height="583" alt="image" src="https://github.com/user-attachments/assets/c9dbdae2-e0bc-49a8-8025-dc392e6f6dff" />
+
+
