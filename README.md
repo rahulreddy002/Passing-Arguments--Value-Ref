@@ -1,4 +1,5 @@
 What is Pass by Value ? 
+
 Whenever the function is called, if any changes are made to the argument inside the subroutine, those changes will not 
 be visible outside the subroutine. 
 
@@ -15,23 +16,28 @@ Why  to call Subroutine?
 whenever needed. 
 
 Why Use Pass by Value? 
+
 • When you don’t want the original variable to change. 
 • Good for read-only operations where you just need to use the data, not modify it. 
 
 Where It’s Used ? 
+
 • In functions (default in SystemVerilog). 
 • For temporary calculations. 
 
 What is Pass by Reference ? 
+
 Whenever the function is called, if any changes are made to the argument inside the subroutine, those changes will be 
 visible outside the subroutine. 
 
 Why Use Pass by Reference? 
+
 • If you change it inside the function → the global/original variable is directly modified. 
 • There’s no separate local memory for that variable. 
 • For speed and efficiency. 
 
 Where ref is used in real time projects ? 
+
 • RTL/Testbench – counters, memories. 
 • UVM Driver/Monitor – for transactions and packets 
 • UVM Scoreboard  - for comparing Dut and reference model outputs. 
